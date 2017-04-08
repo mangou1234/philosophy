@@ -1,5 +1,6 @@
 # 心理学与生活
-tags：Philosophy
+
+[视屏资料](http://www.icourse163.org/course/NJU-1001573001)
 
 -----
 The samll note about philosophy
