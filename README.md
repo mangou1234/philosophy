@@ -1,8 +1,10 @@
 # Philosophy
+tags：Philosophy
+
+-----
 The samll note about philosophy
 ___
-### [第一章 情绪与情感]（一 情绪与情感.md）
-
+### [第一章 情绪与情感](一 情绪与情感.md)
 需要：情绪和情感的催化剂 
 
 具身认知：谁说情绪是主观的？
